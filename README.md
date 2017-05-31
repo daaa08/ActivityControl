@@ -26,6 +26,7 @@ intent.putExtra("result", "결과값");
 setResult(RESERT_OK, "결과값");
 
 ```
+[소스코드 전체보기](https://github.com/daaa08/ActivityControl/blob/master/app/src/main/java/com/example/da08/activitycontrol/SubActivity.java)
 
 ## onActivityResult
 
