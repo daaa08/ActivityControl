@@ -1,7 +1,7 @@
 # ActivityControl
 Activity 끼리 값 주고 받기
 
-## startActivityForResult
+## startActivityForResult - [소스코드 전체보기](https://github.com/daaa08/ActivityControl/blob/master/app/src/main/java/com/example/da08/activitycontrol/MainActivity.java)
 
 이 함수로 Activity를 실행하면 실행된 Activity가 종료되면서 아래의 onActivity 함수를 호출해준다.
 ```java
